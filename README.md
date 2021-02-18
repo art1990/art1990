@@ -14,7 +14,7 @@ My stack is as follows:
 ---
 
 ## I am also lurking on ⚡
-[LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/artem-gorbach-1050271a6
+LinkedIn <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>(https://www.linkedin.com/in/artem-gorbach-1050271a6
 
 ---
 
