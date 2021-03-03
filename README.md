@@ -9,6 +9,7 @@ My stack is as follows:
 * React
 * Redux, Redux Toolkit, Redux-Saga, redux-thunk
 * TypeScript
+* Flow JS
 * Landing Page 
 
 ---
